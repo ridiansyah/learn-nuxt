@@ -1,4 +1,5 @@
 # learn-nuxt
+<<<<<<< HEAD
 
 ## Build Setup
 
@@ -66,3 +67,6 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+=======
+The repository that i make to learn Nuxt JS
+>>>>>>> 6bcc63a5c956543d8d4ab914148c1cca627e43df
